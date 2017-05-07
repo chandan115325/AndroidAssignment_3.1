@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.androidassignment_31.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="RED"
+        android:textColor="@color/Black"
+        android:background="@color/Red"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ORANGE"
+        android:textColor="@color/Black"
+        android:background="@color/Orange"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="YELLOW"
+        android:textColor="@color/Black"
+        android:background="@color/Yellow"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GREEN"
+        android:textColor="@color/Black"
+        android:background="@color/Green"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BLUE"
+        android:textColor="@color/Black"
+        android:background="@color/Blue"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="INDIGO"
+        android:textColor="@color/Black"
+        android:background="@color/Indigo"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VIOLET"
+        android:textColor="@color/Black"
+        android:background="@color/Violet"
+        android:gravity="center"
+        android:layout_weight="1"
+        />
+
+</LinearLayout>
